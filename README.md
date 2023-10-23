@@ -4,7 +4,7 @@
 
 - **Project objective:**
   
-     **1.** Create a _[customer performance report]([Customer Performance Report.pdf](https://github.com/mdrafeul/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)https://github.com/mdrafeul/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ evaluating the sales performence of various customers net sales performence.<br>
+     **1.** Create a <a href="Customer Performance Report.pdf">Customer Performance Report</a> that evaluates the sales performance of various customer's net sales.<br>
      **2.** Create P&L statement for <a href="P&L Statement by Markets.pdf">Markets</a>, <a href="P&L Statement by Months.pdf">Market</a>, <a href="P&L Statement by Fiscal Year.pdf">Fiscal Year</a>.
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
